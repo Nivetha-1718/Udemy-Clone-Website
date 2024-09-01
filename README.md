@@ -5,11 +5,17 @@
 ## Features
 
   -- Navbar: Contains a site title, search bar, and user interface icons for a seamless navigation experience.
+  
   -- Categories: Displays a list of course categories with distinctive background colors for easy identification.
+  
   -- Sale Image: Features a full-width promotional image to attract attention and showcase special offers.
+  
   --Recommended Courses: Highlights a selection of recommended courses, including images, ratings, and pricing details.
+  
   --Topics: Lists various topics in a flexible container for easy browsing and navigation.
+  
   --Popular Courses: Showcases popular courses with similar details as the recommended courses, emphasizing their appeal.
+  
   --Footer: Includes links to additional information and company details, styled with a dark theme for contrast.
 ## Technologies Used
 
